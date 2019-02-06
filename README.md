@@ -1,3 +1,5 @@
+Ran out of time to implement the unit testing. Would probably have followed a different pattern in retrospection.
+
 # Realmdigital Pre-Interview Refactoring #
 
 The code contained herein contains duplication, inconsistencies, implements bad practices and is untestable.
