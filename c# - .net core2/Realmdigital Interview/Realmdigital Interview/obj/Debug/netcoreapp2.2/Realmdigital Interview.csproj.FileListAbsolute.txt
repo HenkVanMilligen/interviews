@@ -1,0 +1,17 @@
+G:\Dev\Assessment\RealmDigital\interviews-master\c# - .net core2\Realmdigital Interview\Realmdigital Interview\bin\Debug\netcoreapp2.2\Realmdigital Interview.deps.json
+G:\Dev\Assessment\RealmDigital\interviews-master\c# - .net core2\Realmdigital Interview\Realmdigital Interview\bin\Debug\netcoreapp2.2\Realmdigital Interview.runtimeconfig.json
+G:\Dev\Assessment\RealmDigital\interviews-master\c# - .net core2\Realmdigital Interview\Realmdigital Interview\bin\Debug\netcoreapp2.2\Realmdigital Interview.runtimeconfig.dev.json
+G:\Dev\Assessment\RealmDigital\interviews-master\c# - .net core2\Realmdigital Interview\Realmdigital Interview\bin\Debug\netcoreapp2.2\Realmdigital Interview.dll
+G:\Dev\Assessment\RealmDigital\interviews-master\c# - .net core2\Realmdigital Interview\Realmdigital Interview\bin\Debug\netcoreapp2.2\Realmdigital Interview.pdb
+G:\Dev\Assessment\RealmDigital\interviews-master\c# - .net core2\Realmdigital Interview\Realmdigital Interview\obj\Debug\netcoreapp2.2\Realmdigital Interview.csprojAssemblyReference.cache
+G:\Dev\Assessment\RealmDigital\interviews-master\c# - .net core2\Realmdigital Interview\Realmdigital Interview\obj\Debug\netcoreapp2.2\Realmdigital Interview.csproj.CoreCompileInputs.cache
+G:\Dev\Assessment\RealmDigital\interviews-master\c# - .net core2\Realmdigital Interview\Realmdigital Interview\obj\Debug\netcoreapp2.2\Realmdigital Interview.RazorAssemblyInfo.cache
+G:\Dev\Assessment\RealmDigital\interviews-master\c# - .net core2\Realmdigital Interview\Realmdigital Interview\obj\Debug\netcoreapp2.2\Realmdigital Interview.RazorAssemblyInfo.cs
+G:\Dev\Assessment\RealmDigital\interviews-master\c# - .net core2\Realmdigital Interview\Realmdigital Interview\obj\Debug\netcoreapp2.2\Realmdigital Interview.AssemblyInfoInputs.cache
+G:\Dev\Assessment\RealmDigital\interviews-master\c# - .net core2\Realmdigital Interview\Realmdigital Interview\obj\Debug\netcoreapp2.2\Realmdigital Interview.AssemblyInfo.cs
+G:\Dev\Assessment\RealmDigital\interviews-master\c# - .net core2\Realmdigital Interview\Realmdigital Interview\obj\Debug\netcoreapp2.2\Realmdigital Interview.RazorTargetAssemblyInfo.cache
+G:\Dev\Assessment\RealmDigital\interviews-master\c# - .net core2\Realmdigital Interview\Realmdigital Interview\obj\Debug\netcoreapp2.2\Realmdigital Interview.dll
+G:\Dev\Assessment\RealmDigital\interviews-master\c# - .net core2\Realmdigital Interview\Realmdigital Interview\obj\Debug\netcoreapp2.2\Realmdigital Interview.pdb
+G:\Dev\Assessment\RealmDigital\interviews-master\c# - .net core2\Realmdigital Interview\Realmdigital Interview\bin\Debug\netcoreapp2.2\Models.dll
+G:\Dev\Assessment\RealmDigital\interviews-master\c# - .net core2\Realmdigital Interview\Realmdigital Interview\bin\Debug\netcoreapp2.2\Models.pdb
+G:\Dev\Assessment\RealmDigital\interviews-master\c# - .net core2\Realmdigital Interview\Realmdigital Interview\obj\Debug\netcoreapp2.2\Realmdigital Interview.csproj.CopyComplete
